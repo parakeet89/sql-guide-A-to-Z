@@ -1,5 +1,5 @@
 # About
-This is an A to Z SQL reference guide in Markdown format. This guide is best viewed in Jupyter due to optional CSS that standarizes the column widths across all tables. The content in this guide is based on Teach Yourself SQL in 10 Minutes (4th Edition) and uses the book's TYSQL database and the latest AdventureWorks database. Although I started with SQLite, SQL Server is the preferred DBMS, so there might be some discrepancies. The guide is at least 90% aligned with SQL Server.
+This is an A to Z SQL reference guide in Markdown format. Please refer to the main.ipynb file, as this guide is best viewed in Jupyter due to optional CSS that standarizes the column widths across all tables. The content in this guide is based on Teach Yourself SQL in 10 Minutes (4th Edition) and uses the book's TYSQL database and the latest AdventureWorks database. Although I started with SQLite, SQL Server is the preferred DBMS, so there might be some discrepancies. The guide is at least 90% aligned with SQL Server.
 
 This guide will be updated periodically but won't be updated as frequently as the original guide which I have in Google Sheets.
 
