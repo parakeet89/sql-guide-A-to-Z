@@ -1,4 +1,6 @@
+.ipynb_checkpoints/
 .venv/
 __pycache__/
 *.pyc
 HTML-to-Markdown.txt
+syntax.html
