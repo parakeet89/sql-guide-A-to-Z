@@ -2,7 +2,7 @@
 * This is a comprehensive A to Z SQL reference.
 * The guide is below, but I've provided the guide in main.ipynb as well, as it is best viewed in Jupyter due to optional CSS that standarizes the column widths across all tables.
 * Concepts in this guide are based on Teach Yourself SQL in 10 Minutes (4th Edition).
-* Examples use the book's TYSQL database and the latest AdventureWorks database. All example queries will work.
+* Examples use the book's TYSQL database or the latest AdventureWorks database. All example queries will work.
 * Although I started with SQLite, SQL Server is the preferred DBMS, so there might be some discrepancies in the beginning of the guide. The guide is at least 90% aligned with SQL Server.
 * This guide will be updated periodically but won't be updated as frequently as the original guide which I have in Google Sheets.
 
