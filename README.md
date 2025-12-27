@@ -3,6 +3,28 @@ This is an A to Z SQL reference guide in Markdown format. Please refer to the ma
 
 This guide will be updated periodically but won't be updated as frequently as the original guide which I have in Google Sheets.
 
+# Table of Contents
+
+* [SQL Guide A–Z](#sql-guide-a-z)
+
+  * [Logical Operators](#logical-operators)
+  * [Wildcard Operators](#wildcard-operators)
+  * [Arithmetic Operators](#arithmetic-operators)
+  * [System Functions](#system-functions)
+  * [Date and Time Functions](#date-and-time-functions)
+  * [String Functions](#string-functions)
+  * [Aggregate Functions](#aggregate-functions)
+  * [The GROUP BY Clause](#the-group-by-clause)
+  * [Subqueries](#subqueries)
+  * [Unions](#unions)
+  * [Joins](#joins)
+  * [Updating, Deleting, and Inserting Data](#updating-deleting-and-inserting-data)
+  * [Creating Tables](#creating-tables)
+  * [Creating Views](#creating-views)
+  * [Transactions](#transactions)
+  * [Stored Procedures](#stored-procedures)
+  * [Variables](#variables)
+
 # SQL Guide A-Z
 
 ## Logical Operators
