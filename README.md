@@ -5,25 +5,23 @@ This guide will be updated periodically but won't be updated as frequently as th
 
 # Table of Contents
 
-* [SQL Guide A–Z](#sql-guide-a-z)
-
-  * [Logical Operators](#logical-operators)
-  * [Wildcard Operators](#wildcard-operators)
-  * [Arithmetic Operators](#arithmetic-operators)
-  * [System Functions](#system-functions)
-  * [Date and Time Functions](#date-and-time-functions)
-  * [String Functions](#string-functions)
-  * [Aggregate Functions](#aggregate-functions)
-  * [The GROUP BY Clause](#the-group-by-clause)
-  * [Subqueries](#subqueries)
-  * [Unions](#unions)
-  * [Joins](#joins)
-  * [Updating, Deleting, and Inserting Data](#updating-deleting-and-inserting-data)
-  * [Creating Tables](#creating-tables)
-  * [Creating Views](#creating-views)
-  * [Transactions](#transactions)
-  * [Stored Procedures](#stored-procedures)
-  * [Variables](#variables)
+* [Logical Operators](#logical-operators)
+* [Wildcard Operators](#wildcard-operators)
+* [Arithmetic Operators](#arithmetic-operators)
+* [System Functions](#system-functions)
+* [Date and Time Functions](#date-and-time-functions)
+* [String Functions](#string-functions)
+* [Aggregate Functions](#aggregate-functions)
+* [The GROUP BY Clause](#the-group-by-clause)
+* [Subqueries](#subqueries)
+* [Unions](#unions)
+* [Joins](#joins)
+* [Updating, Deleting, and Inserting Data](#updating-deleting-and-inserting-data)
+* [Creating Tables](#creating-tables)
+* [Creating Views](#creating-views)
+* [Transactions](#transactions)
+* [Stored Procedures](#stored-procedures)
+* [Variables](#variables)
 
 # SQL Guide A-Z
 
